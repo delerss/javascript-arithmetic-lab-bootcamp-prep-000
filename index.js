@@ -18,3 +18,7 @@ function inc(a) {
     a++
     return a
 }
+
+function dec(a) {
+  return a--
+}
